@@ -1,6 +1,6 @@
-# relatorio2
+# Ristorant People Counter
 
-A new Flutter project.
+This project is design for those who wants to count how many people are in the ristorant. 
 
 ## Getting Started
 
